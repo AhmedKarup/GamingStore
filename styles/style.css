@@ -102,6 +102,9 @@ header .action .searchBox input {
   justify-content: center;
   margin-top: 300px;
   gap: 80px;
+
+  margin-bottom: 200px;
+
 }
 
 .box1 {
@@ -113,7 +116,6 @@ header .action .searchBox input {
   background-position: center;
   opacity: 0.7;
 
-
 }
 
 .box2 {
@@ -124,8 +126,10 @@ header .action .searchBox input {
   transition: 0.5s;
   background-image: url(/images/wp7320446.webp);
   background-position: center;
-  background-position-x: center;
   opacity: 0.7;
+
+
+
 
 
 }
@@ -277,6 +281,7 @@ form button {
   width: 100%;
 
 
+
 }
 
 .footer-content .social {
@@ -321,5 +326,13 @@ form button {
   color: white;
   text-decoration: none;
   opacity: 0.8;
+
+}
+
+.footer-content .copyright {
+  color: white;
+  text-align: center;
+  margin-top: 15px;
+
 
 }
