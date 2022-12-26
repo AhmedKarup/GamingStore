@@ -109,7 +109,7 @@ header .action .searchBox input {
   height: 500px;
   background: rgb(24, 23, 23);
   transition: 0.5s;
-  background-image: url(amd-ryzen-72700x-am4-protsessor-ryzen-riazan-riazhenka-kukur.jpg);
+  background-image: url(/images/amd-ryzen-72700x-am4-protsessor-ryzen-riazan-riazhenka-kukur.jpg);
   background-position: center;
   opacity: 0.7;
 
@@ -122,7 +122,7 @@ header .action .searchBox input {
   background: rgb(24, 23, 23);
   justify-content: center;
   transition: 0.5s;
-  background-image: url(wp7320446.webp);
+  background-image: url(/images/wp7320446.webp);
   background-position: center;
   background-position-x: center;
   opacity: 0.7;
