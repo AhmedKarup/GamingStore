@@ -1,0 +1,96 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+
+}
+
+
+body {
+  background-color: rgb(16, 16, 16);
+  background-image: url(/images/975026.jpg);
+
+}
+
+
+
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  padding: 7px 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  z-index: 100;
+  box-shadow: 5px 40px 20px 5px black inset;
+}
+
+
+header .logo {
+
+  position: relative;
+  color: white;
+  text-decoration: none;
+  font-size: 28px;
+  font-weight: 800;
+
+}
+
+header .navigacijska-traka {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+
+
+
+
+
+}
+
+header ul li a {
+  list-style: none;
+  margin: 20px;
+  color: white;
+  text-decoration: none;
+  padding: 10px 15px;
+  position: relative;
+  z-index: 100;
+
+}
+
+header .action .searchBox {
+  padding: 5px;
+  margin: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: white;
+  border-radius: 10px;
+  position: relative;
+
+}
+
+header .action .searchBox i {
+  font-size: 20px;
+  margin: 5px;
+  color: black;
+}
+
+header .action .searchBox input {
+  outline: none;
+  border: none;
+  font-size: 15px;
+  color: black;
+}
+
+.navigacijska-traka ul li ul {
+  display: block;
+  position: absolute;
+  background-color: white;
+
+
+}
