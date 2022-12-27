@@ -1,0 +1,51 @@
+.div_slike {
+  margin-top: 220px;
+}
+
+.pocetne-slike {
+
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  box-sizing: border-box;
+  flex-wrap: wrap;
+  align-content: center;
+  display: flex;
+
+}
+
+.slika img {
+  width: 400px;
+  height: 300px;
+  object-fit: cover;
+  object-position: center;
+  padding-left: 3px;
+  padding-right: 3px;
+  padding-bottom: 3px;
+  padding-top: 3px;
+  cursor: pointer;
+
+
+}
+
+
+.text-slike {
+  padding: 3px;
+  box-sizing: border-box;
+  position: relative;
+  color: white;
+  bottom: 80px;
+  width: inherit;
+  text-align: center;
+
+
+}
+
+
+
+.slika:hover {
+  cursor: pointer;
+  transform: scale(1.2);
+}
+
+/*main pocetne slike*/
