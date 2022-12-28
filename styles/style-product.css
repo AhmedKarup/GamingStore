@@ -1,0 +1,36 @@
+.product-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 300px;
+  gap: 100px;
+  margin-bottom: 200px;
+  flex-wrap: wrap;
+  row-gap: 70px;
+  column-gap: 100px;
+  color: white;
+}
+
+.product-box img {
+  width: 300px;
+  height: 500px;
+  background: rgb(24, 23, 23);
+  transition: 0.8s;
+  background-position: center;
+  max-width: 100%;
+  object-fit: cover;
+  width: 100%;
+
+}
+
+.product-box h2 {
+  text-align: center;
+}
+
+.product-box p {
+  text-align: center;
+}
+
+.product-box .opcije {
+  text-align: center;
+}
