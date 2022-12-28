@@ -7,20 +7,19 @@
   margin-bottom: 200px;
   flex-wrap: wrap;
   row-gap: 70px;
-  column-gap: 100px;
+  column-gap: 60px;
   color: white;
+
+
 }
 
 .product-box img {
-  width: 300px;
-  height: 500px;
+  width: 500px;
+  height: 480px;
   background: rgb(24, 23, 23);
   transition: 0.8s;
   background-position: center;
   max-width: 100%;
-  object-fit: cover;
-  width: 100%;
-
 }
 
 .product-box h2 {
