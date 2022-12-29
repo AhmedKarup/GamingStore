@@ -3,9 +3,10 @@
 
   position: relative;
   bottom: 0;
-  background-color: rgb(65, 53, 53);
+
   height: 170px;
   width: 100%;
+
 
 
 
@@ -47,12 +48,16 @@
 .footer-content ul li {
   display: inline-block;
   padding: 0 15px;
+
+
 }
 
 .footer-content ul li a {
   color: white;
   text-decoration: none;
   opacity: 0.8;
+
+
 
 }
 
