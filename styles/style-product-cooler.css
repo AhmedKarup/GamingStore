@@ -1,0 +1,38 @@
+.product-container-cooler {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 300px;
+  gap: 100px;
+  margin-bottom: 200px;
+  flex-wrap: wrap;
+  row-gap: 70px;
+  column-gap: 60px;
+  color: white;
+
+
+
+}
+
+.product-box-cooler img {
+  width: 500px;
+  height: 400px;
+  background: rgb(24, 23, 23);
+  transition: 0.8s;
+  background-position: center;
+  max-width: 100%;
+}
+
+.product-box-cooler h2 {
+  text-align: center;
+}
+
+.product-box-cooler p {
+  text-align: center;
+
+
+}
+
+.product-box-cooler .opcije {
+  text-align: center;
+}
