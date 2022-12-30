@@ -1,4 +1,4 @@
-.product-container {
+.product-container-mis {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -16,9 +16,9 @@
 
 }
 
-.product-box img {
+.product-box-mis img {
   width: 400px;
-  height: 450px;
+  height: 550px;
   background: rgb(24, 23, 23);
   transition: 0.8s;
   background-position: center;
@@ -26,7 +26,7 @@
   border-radius: 30px;
 }
 
-.product-box h2 {
+.product-box-mis h2 {
   text-align: center;
   line-height: 2.5;
 
@@ -35,7 +35,7 @@
 
 }
 
-.product-box p {
+.product-box-mis p {
   text-align: center;
   line-height: 1.4;
 
@@ -43,12 +43,12 @@
 
 }
 
-.product-box .opcije {
+.product-box-mis .opcije {
   text-align: center;
 
 }
 
-.product-box .opcije a {
+.product-box-mis .opcije a {
   color: black;
   background-color: white;
   display: inline-block;

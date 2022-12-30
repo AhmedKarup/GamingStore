@@ -21,18 +21,33 @@
   transition: 0.8s;
   background-position: center;
   max-width: 100%;
+  border-radius: 30px;
 }
 
 .product-box-ram h2 {
   text-align: center;
+  line-height: 2.5;
 }
 
 .product-box-ram p {
   text-align: center;
 
 
+
 }
 
 .product-box-ram .opcije {
   text-align: center;
+}
+
+.product-box-ram .opcije a {
+  color: black;
+  background-color: white;
+  display: inline-block;
+  padding: 15px 20px;
+  font-weight: 600;
+  font-size: 20px;
+  text-decoration: none;
+  border-radius: 15px;
+  margin-top: 20px;
 }

@@ -1,4 +1,4 @@
-.product-container {
+.product-container-tastatura {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -16,9 +16,9 @@
 
 }
 
-.product-box img {
-  width: 400px;
-  height: 450px;
+.product-box-tastatura img {
+  width: 700px;
+  height: 500px;
   background: rgb(24, 23, 23);
   transition: 0.8s;
   background-position: center;
@@ -26,7 +26,7 @@
   border-radius: 30px;
 }
 
-.product-box h2 {
+.product-box-tastatura h2 {
   text-align: center;
   line-height: 2.5;
 
@@ -35,7 +35,7 @@
 
 }
 
-.product-box p {
+.product-box-tastatura p {
   text-align: center;
   line-height: 1.4;
 
@@ -43,12 +43,12 @@
 
 }
 
-.product-box .opcije {
+.product-box-tastatura .opcije {
   text-align: center;
 
 }
 
-.product-box .opcije a {
+.product-box-tastatura .opcije a {
   color: black;
   background-color: white;
   display: inline-block;
