@@ -1,4 +1,4 @@
-.product-container {
+.product-container-graficka {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -14,25 +14,25 @@
 
 }
 
-.product-box img {
-  width: 400px;
-  height: 450px;
+.product-box-graficka img {
+  width: 500px;
+  height: 440px;
   background: rgb(24, 23, 23);
   transition: 0.8s;
   background-position: center;
   max-width: 100%;
 }
 
-.product-box h2 {
+.product-box-graficka h2 {
   text-align: center;
 }
 
-.product-box p {
+.product-box-graficka p {
   text-align: center;
 
 
 }
 
-.product-box .opcije {
+.product-box-graficka .opcije {
   text-align: center;
 }

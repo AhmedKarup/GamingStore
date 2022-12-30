@@ -1,4 +1,4 @@
-.product-container {
+.product-container-ram {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -14,25 +14,25 @@
 
 }
 
-.product-box img {
-  width: 400px;
-  height: 450px;
+.product-box-ram img {
+  width: 700px;
+  height: 350px;
   background: rgb(24, 23, 23);
   transition: 0.8s;
   background-position: center;
   max-width: 100%;
 }
 
-.product-box h2 {
+.product-box-ram h2 {
   text-align: center;
 }
 
-.product-box p {
+.product-box-ram p {
   text-align: center;
 
 
 }
 
-.product-box .opcije {
+.product-box-ram .opcije {
   text-align: center;
 }

@@ -1,4 +1,4 @@
-.product-container {
+.product-container-ssd {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -14,25 +14,25 @@
 
 }
 
-.product-box img {
-  width: 400px;
-  height: 450px;
+.product-box-ssd img {
+  width: 600px;
+  height: 290px;
   background: rgb(24, 23, 23);
   transition: 0.8s;
   background-position: center;
   max-width: 100%;
 }
 
-.product-box h2 {
+.product-box-ssd h2 {
   text-align: center;
 }
 
-.product-box p {
+.product-box-ssd p {
   text-align: center;
 
 
 }
 
-.product-box .opcije {
+.product-box-ssd .opcije {
   text-align: center;
 }
