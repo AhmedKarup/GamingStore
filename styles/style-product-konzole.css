@@ -1,4 +1,4 @@
-.product-container-ssd {
+.product-container-konzole {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -14,9 +14,9 @@
 
 }
 
-.product-box-ssd img {
-  width: 550px;
-  height: 290px;
+.product-box-konzole img {
+  width: 600px;
+  height: 500px;
   background: rgb(24, 23, 23);
   transition: 0.8s;
   background-position: center;
@@ -24,23 +24,24 @@
   border-radius: 30px;
 }
 
-.product-box-ssd h2 {
+.product-box-konzole h2 {
   text-align: center;
   line-height: 2.5;
 }
 
-.product-box-ssd p {
+.product-box-konzole p {
   text-align: center;
   line-height: 1.4;
 
 
+
 }
 
-.product-box-ssd .opcije {
+.product-box-konzole .opcije {
   text-align: center;
 }
 
-.product-box-ssd .opcije a {
+.product-box-konzole .opcije a {
   color: black;
   background-color: white;
   display: inline-block;

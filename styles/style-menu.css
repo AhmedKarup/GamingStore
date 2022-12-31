@@ -7,6 +7,7 @@
 
 
 
+
 }
 
 
@@ -20,7 +21,7 @@
 body {
   background-color: rgb(16, 16, 16);
   background-image: url(/images/bg3.webp);
-  box-shadow: 0px 0px 30px 15px rgb(185, 11, 11) inset;
+  box-shadow: 0px 0px 30px 15px rgb(140, 83, 231) inset;
 
 
 
@@ -38,7 +39,7 @@ header {
   justify-content: space-between;
   align-items: center;
   z-index: 100;
-  background-color: rgb(185, 11, 11);
+  background-color: rgb(52, 17, 109);
 }
 
 
