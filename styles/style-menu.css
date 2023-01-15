@@ -3,9 +3,7 @@
   padding: 0;
   box-sizing: border-box;
   font-family: sans-serif;
-
-
-
+  border: 1px solid red;
 
 
 }
@@ -29,6 +27,7 @@ body {
 
 
 
+
 header {
   position: fixed;
   top: 0;
@@ -41,6 +40,8 @@ header {
   z-index: 100;
   background-color: rgb(135, 81, 221);
 }
+
+
 
 
 header .logo {
